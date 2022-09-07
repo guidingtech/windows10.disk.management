@@ -1,6 +1,6 @@
 # windows 10 disk management
 
-[![windows 10 disk management](get-detail.png)](https://github.com/guidingtech/windows10.disk.management)
+[![windows 10 disk management](get-detail.png)](https://icncomputer.com/windows-10-disk-management/)
 
 Windows 10 is one of the most popular Operating Systems (OS) released by Microsoft. It improves much compared with Windows 8 such as adding the Start Menu seen in Windows 7, a virtual desktop system, a voice assistant named Cortana, Xbox app and streaming, and Edge browser.
 
